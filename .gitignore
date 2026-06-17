@@ -216,3 +216,33 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+#Python 
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+#Virtual Environments
+.venv/
+venv/
+
+#Jupyter
+.ipynb_checkpoints/
+
+#macOS
+.DS_Store
+
+#Raw and Generated Stores
+data/raw/
+data/processed/
+
+#Large trained models
+models/*.keras
+models/*.h5
+models/*.tflite
+models/*.pkl
+models/*.joblib
+
+#Temporary Output
+*.log
