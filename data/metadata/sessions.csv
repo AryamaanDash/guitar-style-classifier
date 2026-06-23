@@ -1,0 +1,5 @@
+filename,label,session,recording_date,guitar,pickup,tone,sample_rate_hz,channels,duration_seconds,dataset_split,notes
+single_note_session01.wav,single_note,session_01,06-23-2026,Fender,4,clean,,1,120,pilot,One note at a time without palm muting; six simple string patterns.
+chords_session01.wav,chords,session_01,06-23-2026,Fender,4,clean,,1,120,pilot,Open chords allowed to ring; approximately one down-strum every two seconds.
+palm_muted_session01.wav,palm_muted,session_01,06-23-2026,Fender,4,clean,,1,120,pilot,One note at a time using palm muting; same patterns as the single-note recording.
+background_session01.wav,background,session_01,06-23-2026,Fender,4,clean,,1,120,pilot,"Guitar connected with no intentional playing; includes normal room, interface, and guitar noise."
