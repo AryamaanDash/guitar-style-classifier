@@ -1,0 +1,4 @@
+label,total_rows,metadata_rows,discovered_files,readable_files,flagged_clips,invalid_audio,duration_flags,sample_rate_flags,channel_flags,metadata_mismatch_flags,nearly_silent_flags,clipping_flags,duplicate_flags,amplitude_outlier_flags
+chords,80,80,80,80,3,0,0,0,0,0,1,0,0,2
+palm_muted,68,68,68,68,0,0,0,0,0,0,0,0,0,0
+single_note,81,81,81,81,1,0,0,0,0,0,0,1,0,0

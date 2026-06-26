@@ -1,5 +1,9 @@
 filename,label,session,recording_date,guitar,pickup,tone,sample_rate_hz,channels,duration_seconds,dataset_split,notes
-single_note_session01.wav,single_note,session_01,06-23-2026,Fender,4,clean,,1,120,pilot,One note at a time without palm muting; six simple string patterns.
-chords_session01.wav,chords,session_01,06-23-2026,Fender,4,clean,,1,120,pilot,Open chords allowed to ring; approximately one down-strum every two seconds.
-palm_muted_session01.wav,palm_muted,session_01,06-23-2026,Fender,4,clean,,1,120,pilot,One note at a time using palm muting; same patterns as the single-note recording.
-background_session01.wav,background,session_01,06-23-2026,Fender,4,clean,,1,120,pilot,"Guitar connected with no intentional playing; includes normal room, interface, and guitar noise."
+single_note_session01.wav,single_note,session_01,06-23-2026,Fender,4,clean,,1,81.731247,pilot,One note at a time without palm muting; six simple string patterns.
+chords_session01.wav,chords,session_01,06-23-2026,Fender,4,clean,,1,80.245170,pilot,Open chords allowed to ring; approximately one down-strum every two seconds.
+palm_muted_session01.wav,palm_muted,session_01,06-23-2026,Fender,4,clean,,1,68.356553,pilot,One note at a time using palm muting; same patterns as the single-note recording.
+background_session01.wav,background,session_01,06-23-2026,Fender,4,clean,,1,60.926168,pilot,"Guitar connected with no intentional playing; includes normal room, interface, and guitar noise."
+single_note_session02.wav,single_note,session_02,,Fender,4,clean,44100,2,90.648,,
+chords_session02.wav,chords,session_02,,Fender,4,clean,44100,2,96.592,,
+palm_muted_session02.wav,palm_muted,session_02,,Fender,4,clean,44100,2,83.217,,
+background_session02.wav,background,session_02,,Fender,4,clean,44100,2,81.731,,
